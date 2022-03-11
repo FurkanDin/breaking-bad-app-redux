@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-app-redux/static/css/main.78f2370a.css",
+    "main.js": "/breaking-bad-app-redux/static/js/main.50c4b54b.js",
+    "static/js/787.9911c286.chunk.js": "/breaking-bad-app-redux/static/js/787.9911c286.chunk.js",
+    "index.html": "/breaking-bad-app-redux/index.html",
+    "main.78f2370a.css.map": "/breaking-bad-app-redux/static/css/main.78f2370a.css.map",
+    "main.50c4b54b.js.map": "/breaking-bad-app-redux/static/js/main.50c4b54b.js.map",
+    "787.9911c286.chunk.js.map": "/breaking-bad-app-redux/static/js/787.9911c286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f2370a.css",
+    "static/js/main.50c4b54b.js"
+  ]
+}
