@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.nav_items > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.nav_items > ul > li {
+  float: left;
+}
+.nav_items > ul > li > a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav_items > ul > li > a:hover {
+  background-color: rgb(158, 154, 154);
+}
